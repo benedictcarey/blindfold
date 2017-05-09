@@ -1,0 +1,2 @@
+# blindfold
+Totalitarian Scoring System
